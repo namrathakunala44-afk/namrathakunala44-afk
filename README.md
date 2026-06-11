@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Namratha 👋
 
-<!--
-**namrathakunala44-afk/namrathakunala44-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AIML) Student
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning Python, DSA, and Machine Learning
+- 💻 Building projects and improving problem-solving skills
+- 🎯 Goal: Become an AI Engineer and crack GATE CSE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- NumPy
+- Pandas
+- Git & GitHub
+
+## Current Focus
+- Data Structures & Algorithms
+- Python Projects
+- Machine Learning Fundamentals
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/namratha-kunala-5ba1a8380?
+
+⭐ Always learning and improving one step at a time.
